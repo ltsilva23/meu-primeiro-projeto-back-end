@@ -8,7 +8,7 @@ O curso foi ministrado pela instrutora Simara Conceição, que abordou todo o co
 
 ## Deploy
 
-A API desenvolvida durante o curso está hospedada na plataforma Render, o que permite acesso de qualquer lugar. Você pode acessá-la [aqui](https://render.com/).
+A API desenvolvida durante o curso está hospedada na plataforma Render, o que permite acesso de qualquer lugar. Você pode acessá-la https://back-end-mz31.onrender.com/mulheres.
 
 ## Agradecimentos
 
